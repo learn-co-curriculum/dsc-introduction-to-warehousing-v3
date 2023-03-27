@@ -38,5 +38,5 @@ A well-thought data warehouse design is essential for the business to run. As th
 
 ### Additional Reading
 
-[Ecom Data Series: What is KPI?] (https://towardsdatascience.com/data-science-in-ecommerce-what-are-kpis-cba6bcc376d0)
+[Ecom Data Series: What is KPI?](https://towardsdatascience.com/data-science-in-ecommerce-what-are-kpis-cba6bcc376d0)
 
