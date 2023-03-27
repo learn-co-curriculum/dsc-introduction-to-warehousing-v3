@@ -36,4 +36,7 @@ Also, a discussion for establishment of KPIs need to be carried out. Usually the
 ### Summary
 A well-thought data warehouse design is essential for the business to run. As the volume and variety of data increases along with business, it's advantageous to have a central data warehouse where all business verticals can and will benefit. From there, the data scientists can carefully design the data warehouse that is specific for data science needs for all data, whether the data is structured or unstructured.
 
+### Additional Reading
+
+[Ecom Data Series: What is KPI?] (https://towardsdatascience.com/data-science-in-ecommerce-what-are-kpis-cba6bcc376d0)
 
