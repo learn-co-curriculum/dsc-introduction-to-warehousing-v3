@@ -21,6 +21,8 @@ Data science is another business vertical that the data engineers will interact 
 
 ![data_warehouse_diagrams](images/data_warehouse_diagrams.png)
 
+In this diagram, you can see how various data sources will converge into a data storage, then the data is cleaned and organized into a central data warehouse. From there, data is formed for specific business verticals, generating its own data mart. 
+
 ### What are the benefits of using a data warehouse as a data scientist?
 - Informed decision making, such as the performance of A/B testing
 - Consolidated data from many sources
